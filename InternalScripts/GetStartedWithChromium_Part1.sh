@@ -5,11 +5,11 @@ sudo apt update
 sudo apt upgrade -y
 
 # Download the tools needed to get Chromium downloaded properly.
-cd /workspace/nitron/Scripts
+cd /workspace/nitron/InternalScripts
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 
 # This part is specific to ItsQuentin Inc.'s Use for Depot_Tools
-export PATH="$PATH:/workspace/nitron/Scripts/depot_tools"
+export PATH="$PATH:/workspace/nitron/InternalScripts/depot_tools"
 
 # Portion 1 Complete
 clear
