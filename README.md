@@ -13,4 +13,8 @@ Below is a list you *may* use if you already use Google Chrome. Since I want my 
 - Restore Pages dialog box
 **To put it simply, anything to do with getting a user's unique data, and Google services will not be in the browser by force**
 
+## Inspirations behind Project Nitron
+- [UnGoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
+- [Inox-Patchset](https://github.com/gcarq/inox-patchset)
+
 #### ![BaseLogo_64px](https://user-images.githubusercontent.com/83380088/157581394-8b4767bc-3e59-471c-ac7b-095a37128124.png) ©️ ItsQuentin Inc. 2022
