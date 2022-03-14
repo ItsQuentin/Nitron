@@ -1,6 +1,6 @@
 {
-  "appId": "org.wexond.wexond",
-  "productName": "Wexond",
+  "appId": "org.itsquentin.nitron",
+  "productName": "Nitron",
   "nsis": {
     "include": "static/installer.nsh"
   },
@@ -38,13 +38,10 @@
       }
     ]
   },
-  "mac": {
-    "category": "public.app-category.navigation"
-  },
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Wexond",
+      "description": "Project: Nitron",
       "role": "Viewer",
       "ext": "html"
     }

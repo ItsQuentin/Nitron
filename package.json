@@ -1,6 +1,6 @@
 {
-  "name": "wexond",
-  "version": "6.0.0-nightly.2",
+  "name": "nitron",
+  "version": "1.0.0-beta.1",
   "sideEffects": false,
   "description": "Extensible, fast and innovative web browser with material UI.",
   "keywords": [
@@ -11,12 +11,12 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/wexond/wexond#readme",
+  "homepage": "https://github.com/ItsQuentin/nitron#readme",
   "main": "build/main.bundle.js",
-  "author": "Eryk Rakowski <sentialx@gmail.com>",
+  "author": "Quentin Smith <quentin@itsquentin.ml>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wexond/wexond.git"
+    "url": "git+https://github.com/Nitron/nitron.git"
   },
   "bugs": {
     "url": "https://github.com/wexond/wexond/issues"
@@ -103,5 +103,7 @@
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "keytar": "^7.9.0"
+  }
 }
