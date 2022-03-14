@@ -17,4 +17,9 @@ Below is a list you *may* use if you already use Google Chrome. Since I want my 
 - [UnGoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 - [Inox-Patchset](https://github.com/gcarq/inox-patchset)
 
-#### ![BaseLogo_64px](https://user-images.githubusercontent.com/83380088/157581394-8b4767bc-3e59-471c-ac7b-095a37128124.png) ©️ ItsQuentin Inc. 2022
+#### ![BaseLogo_64px](https://user-images.githubusercontent.com/83380088/157581394-8b4767bc-3e59-471c-ac7b-095a37128124.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron?ref=badge_shield)
+©️ ItsQuentin Inc. 2022
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron?ref=badge_large)
