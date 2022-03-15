@@ -77,10 +77,10 @@ export class Settings extends EventEmitter {
 
     if (this.object.themeAuto) {
       this.object.theme = nativeTheme.shouldUseDarkColors
-        ? 'wexond-dark'
-        : 'wexond-light';
+        ? 'nitron-dark'
+        : 'nitron-light';
     } else {
-      themeSource = this.object.theme === 'wexond-dark' ? 'dark' : 'light';
+      themeSource = this.object.theme === 'nitron-dark' ? 'dark' : 'light';
     }
 
     if (themeSource !== nativeTheme.themeSource) {
