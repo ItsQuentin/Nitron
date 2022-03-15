@@ -16,7 +16,7 @@
   "author": "Quentin Smith <quentin@itsquentin.ml>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nitron/nitron.git"
+    "url": "git+https://github.com/ItsQuentin/nitron.git"
   },
   "bugs": {
     "url": "https://github.com/ItsQuentin/nitron/issues"
