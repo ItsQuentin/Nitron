@@ -19,7 +19,7 @@
     "url": "git+https://github.com/Nitron/nitron.git"
   },
   "bugs": {
-    "url": "https://github.com/wexond/wexond/issues"
+    "url": "https://github.com/ItsQuentin/nitron/issues"
   },
   "scripts": {
     "dev-renderer": "cross-env DEV=1 webpack serve --config webpack.config.renderer.js",
