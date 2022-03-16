@@ -16,16 +16,6 @@ Project: Nitron is a modern web browser, built on top of modern web technologies
 - [Screenshots](#screenshots)
 - [Downloads](#downloads)
 
-<<<<<<< HEAD
-#### ![BaseLogo_64px](https://user-images.githubusercontent.com/83380088/157581394-8b4767bc-3e59-471c-ac7b-095a37128124.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron?ref=badge_shield)
-©️ ItsQuentin Inc. 2022
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FItsQuentin%2Fnitron?ref=badge_large)
-=======
-# Motivation
-
 Compiling and editing Chromium directly may be challenging and time consuming, so we decided to build Project: Nitron with modern web technologies. Hence, the development effort and time is greatly reduced. Either way Firefox is based on Web Components and Chrome implements new dialogs in WebUI (which essentially is hosted in WebContents).
 
 # Features
@@ -63,6 +53,3 @@ UI compact variant:
 
 # Downloads
 - [Stable](https://github.com/ItsQuentin/nitron/releases)
-
-# [Roadmap](https://github.com)
->>>>>>> 2c55d71 (Get working on stuff?)
