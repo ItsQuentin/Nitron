@@ -1,0 +1,15 @@
+{
+ "name": "Nitron Browser",
+  "supported_platforms": [
+      "windows",
+      "linux"
+    ],
+  
+    "commands_to_run": [
+      "ci_build",
+      "start",
+      "build",
+      "build_linux",
+      "build_windows"
+      ]
+}
