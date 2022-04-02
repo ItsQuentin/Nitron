@@ -37,7 +37,7 @@ const getInput = (name) => {
       );
       const newPkg = {
         ...package,
-        name: 'nitron-nightly',
+        name: 'nitron',
         repository: {
           type: 'git',
           url: 'git+https://github.com/ItsQuentin/nitron.git',
@@ -50,11 +50,11 @@ const getInput = (name) => {
 
       const newEBConfig = {
         ...electronBuilder,
-        appId: 'org.itsquentin.nitron-nightly',
-        productName: 'Nitron Nightly',
+        appId: 'org.itsquentin.nitron',
+        productName: 'Nitron',
         directories: {
           output: 'dist',
-          buildResources: 'static/nightly-icons',
+          buildResources: 'static/icons',
         },
       };
 
