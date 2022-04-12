@@ -53,12 +53,12 @@ export const DEFAULT_SEARCH_ENGINES = [
 ];
 
 export const DEFAULT_SETTINGS: ISettings = {
-  theme: 'wexond-light',
+  theme: 'nitron-dark',
   darkContents: false,
   shield: true,
   multrin: true,
   animations: true,
-  bookmarksBar: false,
+  bookmarksBar: true,
   suggestions: true,
   themeAuto: true,
   searchEngines: DEFAULT_SEARCH_ENGINES,
