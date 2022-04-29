@@ -103,6 +103,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "keytar": "^7.9.0"
+    "keytar": "^7.9.0",
+    "url": "^0.11.0"
   }
 }
