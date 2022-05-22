@@ -1,5 +1,5 @@
 {
-  "appId": "org.itsquentin.nitron",
+  "appId": "org.pythia.nitron",
   "productName": "Nitron",
   "nsis": {
     "include": "static/installer.nsh"
@@ -41,7 +41,7 @@
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Project: Nitron",
+      "description": "Nitron",
       "role": "Viewer",
       "ext": "html"
     }
