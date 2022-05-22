@@ -1,5 +1,5 @@
 !macro customInstall
-  WriteRegStr SHCTX "SOFTWARE\RegisteredApplications" "Project: Nitron" "Software\Clients\StartMenuInternet\Nitron\Capabilities"
+  WriteRegStr SHCTX "SOFTWARE\RegisteredApplications" "Nitron" "Software\Clients\StartMenuInternet\Nitron\Capabilities"
 
   WriteRegStr SHCTX "SOFTWARE\Classes\Nitron" "" "Nitron HTML Document"
   WriteRegStr SHCTX "SOFTWARE\Classes\Nitron\Application" "AppUserModelId" "Nitron"
