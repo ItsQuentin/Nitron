@@ -14,7 +14,7 @@ import { Application } from './application';
 export const isNightly = app.name === 'nitron';
 
 app.allowRendererProcessReuse = true;
-app.name = isNightly ? 'Project: Nitron' : 'Project: Nitron';
+app.name = isNightly ? 'Nitron' : 'Nitron';
 
 (process.env as any)['ELECTRON_DISABLE_SECURITY_WARNINGS'] = true;
 
