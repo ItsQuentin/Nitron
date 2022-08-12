@@ -11,7 +11,7 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/ItsQuentin/nitron#readme",
+  "homepage": "https://github.com/pythia-inc/nitron#readme",
   "main": "build/main.bundle.js",
   "author": "Quentin Smith <quentin@itsquentin.ml>",
   "repository": {
@@ -78,7 +78,7 @@
     "jszip": "^3.7.0",
     "mobx": "6.3.2",
     "mobx-react-lite": "3.2.0",
-    "nedb": "1.8.0",
+    "@seald-io/nedb": "3.0.0",
     "node-bookmarks-parser": "^2.0.0",
     "node-fetch": "^2.6.7",
     "prettier": "2.3.2",
