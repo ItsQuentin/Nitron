@@ -2,9 +2,9 @@
   <a href="https://wexond.net"><img src="static/icons/icon.png" width="256"></a>
 </p>
 
-<div align="center">
 # ⚠ **NITRON BROWSER IS NOW DEPRECATED AS [CODENAME: SPRINGFIELD](https://gihub.com/pythia-inc/springfield) IS A REWRITE OF NITRON.** ⚠</h1>
-</div>
+
+
 <div align="center">
   <h1>Project: Nitron</h1>
 
