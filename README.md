@@ -1,8 +1,10 @@
+
+# ⚠ ***NITRON BROWSER IS NOW DEPRECATED AS [CODENAME: SPRINGFIELD](https://gihub.com/pythia-inc/springfield) IS A REWRITE OF NITRON.*** ⚠
+
+
 <p align="center">
   <a href="https://wexond.net"><img src="static/icons/icon.png" width="256"></a>
 </p>
-
-# ⚠ **NITRON BROWSER IS NOW DEPRECATED AS [CODENAME: SPRINGFIELD](https://gihub.com/pythia-inc/springfield) IS A REWRITE OF NITRON.** ⚠</h1>
 
 
 <div align="center">
